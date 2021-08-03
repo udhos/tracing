@@ -14,3 +14,7 @@ https://www.jaegertracing.io/docs/1.22/getting-started/
 ./run.sh
 ```
 
+## References
+
+https://github.com/openzipkin/b3-propagation
+
